@@ -2,4 +2,5 @@
 
 # Chat History
 
+Originally by dyonb.
 More information can be found on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-history)
