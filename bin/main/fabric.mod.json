@@ -5,7 +5,7 @@
   "name": "ChatHistory",
   "description": "Sends recent messages to clients on join.",
   "authors": [
-    "dyonb"
+    "dyon-b"
   ],
   "contributors": [
     "JuergenSchT"
